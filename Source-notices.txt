@@ -1,0 +1,5 @@
+Proclamate Heavy by PJL / Paul Lloyd. Copyright (c) PJL, 2002. All rights reserved. Original font name metadata: Proclamate Heavy. Trademark metadata: Proclamate Heavy is a trademark of PJL. License description in the supplied font: Freeware! Download source: https://www.dafont.com/proclamate.font
+
+Fallback glyphs from UnifrakturCook. Copyright (c) 2010 j. mach wust. SIL Open Font License 1.1: see OFL.txt.
+
+The custom Gothic capitals, reference-traced S, vector silhouettes and flames were added for this project. This mixed-source modification does not grant additional rights over the original source fonts.
